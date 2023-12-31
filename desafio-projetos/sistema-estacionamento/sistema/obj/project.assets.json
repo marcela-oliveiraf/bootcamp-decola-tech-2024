@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Mar-o\\Desktop\\computing\\bootcamp-decola-tech-2024\\desafio-projetos\\sistema-estacionamento\\sistema-estacionamento.csproj",
+      "projectUniqueName": "D:\\Users\\Mar-o\\Desktop\\computing\\bootcamp-decola-tech-2024\\desafio-projetos\\sistema-estacionamento\\sistema\\sistema-estacionamento.csproj",
       "projectName": "sistema-estacionamento",
-      "projectPath": "D:\\Users\\Mar-o\\Desktop\\computing\\bootcamp-decola-tech-2024\\desafio-projetos\\sistema-estacionamento\\sistema-estacionamento.csproj",
+      "projectPath": "D:\\Users\\Mar-o\\Desktop\\computing\\bootcamp-decola-tech-2024\\desafio-projetos\\sistema-estacionamento\\sistema\\sistema-estacionamento.csproj",
       "packagesPath": "C:\\Users\\Mar-o\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Mar-o\\Desktop\\computing\\bootcamp-decola-tech-2024\\desafio-projetos\\sistema-estacionamento\\obj\\",
+      "outputPath": "D:\\Users\\Mar-o\\Desktop\\computing\\bootcamp-decola-tech-2024\\desafio-projetos\\sistema-estacionamento\\sistema\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mar-o\\AppData\\Roaming\\NuGet\\NuGet.Config"

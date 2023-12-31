@@ -1,4 +1,4 @@
-﻿using DesafioFundamentos.Models;
+﻿using sistema.Classes; 
 
 // Coloca o encoding para UTF8 para exibir acentuação
 Console.OutputEncoding = System.Text.Encoding.UTF8;
@@ -36,11 +36,11 @@ while (exibirMenu){
             break;
 
         case "2":
-            es.RemoverVeiculo();
+            estacionamento.RemoverVeiculo();
             break;
 
         case "3":
-            es.ListarVeiculos();
+            estacionamento.ListarVeiculos();
             break;
 
         case "4":

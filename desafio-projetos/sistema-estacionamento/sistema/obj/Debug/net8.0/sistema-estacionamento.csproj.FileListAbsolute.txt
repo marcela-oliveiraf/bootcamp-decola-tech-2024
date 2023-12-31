@@ -1,0 +1,15 @@
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-estacionamento\sistema\bin\Debug\net8.0\sistema-estacionamento.exe
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-estacionamento\sistema\bin\Debug\net8.0\sistema-estacionamento.deps.json
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-estacionamento\sistema\bin\Debug\net8.0\sistema-estacionamento.runtimeconfig.json
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-estacionamento\sistema\bin\Debug\net8.0\sistema-estacionamento.dll
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-estacionamento\sistema\bin\Debug\net8.0\sistema-estacionamento.pdb
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-estacionamento\sistema\obj\Debug\net8.0\sistema-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-estacionamento\sistema\obj\Debug\net8.0\sistema-estacionamento.AssemblyInfoInputs.cache
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-estacionamento\sistema\obj\Debug\net8.0\sistema-estacionamento.AssemblyInfo.cs
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-estacionamento\sistema\obj\Debug\net8.0\sistema-estacionamento.csproj.CoreCompileInputs.cache
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-estacionamento\sistema\obj\Debug\net8.0\sistema-estacionamento.sourcelink.json
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-estacionamento\sistema\obj\Debug\net8.0\sistema-estacionamento.dll
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-estacionamento\sistema\obj\Debug\net8.0\refint\sistema-estacionamento.dll
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-estacionamento\sistema\obj\Debug\net8.0\sistema-estacionamento.pdb
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-estacionamento\sistema\obj\Debug\net8.0\sistema-estacionamento.genruntimeconfig.cache
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-estacionamento\sistema\obj\Debug\net8.0\ref\sistema-estacionamento.dll
