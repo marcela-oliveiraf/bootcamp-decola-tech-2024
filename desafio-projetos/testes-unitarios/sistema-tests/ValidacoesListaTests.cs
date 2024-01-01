@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Xunit;
+using sistema.Classes;
 
 namespace sistema_tests{
     public class ValidacoesListaTests{
@@ -43,11 +44,13 @@ namespace sistema_tests{
             var numeroParaProcurar = 10;
 
             // Act
+            bool resultado = _validacoes.ListaContemDeterminadoNumero(lista, numeroParaProcurar);
 
             // Assert
+            Assert.False(resultado);  // Espera que False significa que nao tem o numero procurado
         }
 
-        //TODO: Corrigir a anotação [Fact]
+        [Fact]
         public void DeveMultiplicarOsElementosDaListaPor2(){
             //TODO: Implementar método de teste
 
@@ -56,8 +59,10 @@ namespace sistema_tests{
             var resultadoEsperado = new List<int> { 10, 14, 16, 18 };
             
             // Act
+            var resultado = _validacoes.MultiplicarNumerosLista(lista, 2);
 
             // Assert
+            Assert.Equal(resultadoEsperado, resultado);
         }
 
         [Fact]
@@ -68,10 +73,11 @@ namespace sistema_tests{
             var lista = new List<int> { 5, -1, -8, 9 };
 
             // Act
+            int resultado = _validacoes.RetornarMaiorNumeroLista(lista);
 
             // Assert
             //TODO: Corrigir o Assert.Equal com base no retorno da chamada ao método
-            Assert.Equal(9, 9);
+            Assert.Equal(9, resultado);
         }
 
         [Fact]
@@ -86,7 +92,7 @@ namespace sistema_tests{
 
             // Assert
             //TODO: Corrigir o Assert.Equal com base no retorno da chamada ao método
-            Assert.Equal(-8, -8);
+            Assert.Equal(-8, resultado);
         }
     }
 }

@@ -1,0 +1,15 @@
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\testes-unitarios\sistema\obj\Debug\net8.0\sistema.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\testes-unitarios\sistema\obj\Debug\net8.0\sistema.AssemblyInfoInputs.cache
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\testes-unitarios\sistema\obj\Debug\net8.0\sistema.AssemblyInfo.cs
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\testes-unitarios\sistema\obj\Debug\net8.0\sistema.csproj.CoreCompileInputs.cache
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\testes-unitarios\sistema\obj\Debug\net8.0\sistema.sourcelink.json
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\testes-unitarios\sistema\bin\Debug\net8.0\sistema.exe
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\testes-unitarios\sistema\bin\Debug\net8.0\sistema.deps.json
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\testes-unitarios\sistema\bin\Debug\net8.0\sistema.runtimeconfig.json
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\testes-unitarios\sistema\bin\Debug\net8.0\sistema.dll
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\testes-unitarios\sistema\bin\Debug\net8.0\sistema.pdb
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\testes-unitarios\sistema\obj\Debug\net8.0\sistema.dll
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\testes-unitarios\sistema\obj\Debug\net8.0\refint\sistema.dll
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\testes-unitarios\sistema\obj\Debug\net8.0\sistema.pdb
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\testes-unitarios\sistema\obj\Debug\net8.0\sistema.genruntimeconfig.cache
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\testes-unitarios\sistema\obj\Debug\net8.0\ref\sistema.dll

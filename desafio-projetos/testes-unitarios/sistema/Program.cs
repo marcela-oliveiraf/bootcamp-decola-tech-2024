@@ -1,1 +1,1 @@
-﻿
+﻿Console.WriteLine("So para ter uma Main");

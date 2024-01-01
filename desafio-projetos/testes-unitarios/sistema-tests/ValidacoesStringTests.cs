@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Xunit;
+using sistema.Classes;
 
 namespace sistema_tests{
     public class ValidacoesStringTests{
@@ -13,8 +14,8 @@ namespace sistema_tests{
             //TODO: Corrigir a variável "texto" e "resultadoEsperado" da seção Arrange
 
             // Arrange
-            var texto = "a";
-            var resultadoEsperado = 0;
+            var texto = "Matrix";
+            var resultadoEsperado = 6;
 
             // Act
             var resultado = _validacoes.RetornarQuantidadeCaracteres(texto);
@@ -31,11 +32,11 @@ namespace sistema_tests{
 
             //TODO: Corrigir a chamada do método "ContemCaractere" da seção Act
             // Act
-            _validacoes.ContemCaractere(texto, textoProcurado);
+            bool resultado = _validacoes.ContemCaractere(texto, textoProcurado);
 
             // Assert
             //TODO: Corrigir o Assert.True com base no retorno da chamada ao método
-            Assert.True(true);
+            Assert.True(resultado);
         }
 
         [Fact]
@@ -49,7 +50,7 @@ namespace sistema_tests{
 
             // Assert
             //TODO: Corrigir o Assert.False com base no retorno da chamada ao método
-            Assert.False(true);
+            Assert.False(resultado);
         }
 
         //TODO: Corrigir a anotação [Fact]
@@ -58,7 +59,7 @@ namespace sistema_tests{
 
             // Arrange
             var texto = "Começo, meio e fim do texto procurado";
-            var textoProcurado = "teste";
+            var textoProcurado = "meio";
 
             // Act
             var resultado = _validacoes.TextoTerminaCom(texto, textoProcurado);
