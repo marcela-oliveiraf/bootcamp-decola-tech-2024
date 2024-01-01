@@ -1,0 +1,15 @@
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-smartphone\obj\Debug\net8.0\sistema-smartphone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-smartphone\obj\Debug\net8.0\sistema-smartphone.AssemblyInfoInputs.cache
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-smartphone\obj\Debug\net8.0\sistema-smartphone.AssemblyInfo.cs
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-smartphone\obj\Debug\net8.0\sistema-smartphone.csproj.CoreCompileInputs.cache
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-smartphone\obj\Debug\net8.0\sistema-smartphone.sourcelink.json
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-smartphone\bin\Debug\net8.0\sistema-smartphone.exe
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-smartphone\bin\Debug\net8.0\sistema-smartphone.deps.json
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-smartphone\bin\Debug\net8.0\sistema-smartphone.runtimeconfig.json
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-smartphone\bin\Debug\net8.0\sistema-smartphone.dll
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-smartphone\bin\Debug\net8.0\sistema-smartphone.pdb
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-smartphone\obj\Debug\net8.0\sistema-smartphone.dll
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-smartphone\obj\Debug\net8.0\refint\sistema-smartphone.dll
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-smartphone\obj\Debug\net8.0\sistema-smartphone.pdb
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-smartphone\obj\Debug\net8.0\sistema-smartphone.genruntimeconfig.cache
+D:\Users\Mar-o\Desktop\computing\bootcamp-decola-tech-2024\desafio-projetos\sistema-smartphone\obj\Debug\net8.0\ref\sistema-smartphone.dll
