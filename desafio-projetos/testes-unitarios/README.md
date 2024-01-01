@@ -1,4 +1,4 @@
-# Sistema de Smartphone
+# Sistema com Testes Unitários
 
 Este é um desafio de projeto do Bootcamp Decola Tech Avanade 2024 da plataforma [DIO](https://www.dio.me/).
 
